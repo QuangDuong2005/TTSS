@@ -1,6 +1,5 @@
 # TTSS
-Bài tập cuối kỳ môn Tính Toán Song Song
-# Bao cao Thuc hanh Tinh toan Song song voi OpenMP
+# Bài tập cuối kỳ môn Tính Toán Song Song
 
 Du an nay thuc hien cai dat va danh gia hieu nang cua hai bai toan tinh toan co ban su dung thu vien OpenMP tren ngon ngu C. Muc tieu la so sanh hieu suat giua thuc thi tuan tu va thuc thi song song de danh gia toc do tang toc Speedup va hieu qua cua da luong.
 
